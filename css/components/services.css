@@ -1,0 +1,138 @@
+.services {
+    padding: 110px;
+    width: 1920px;
+}
+.services__title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 53px;
+    text-align: center;
+    color: #323232;
+    margin-left: -80px;
+    color: #323232;
+}
+.services__text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    color: #999999;
+    margin-left: -70px;
+    margin-top: 50px;
+}
+.services__name {
+    font-family: 'Montserrat';
+    color: #000000;
+    padding-left: 89px;
+    margin-top: -26px;
+}
+.services__suptitle {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+    padding-left: 95px;
+}
+.services__img {
+    padding-left: 106px;
+    padding-top: 88px;
+}
+.services__row {
+    margin-left: 400px;
+    padding-top: 116px;
+}
+.services__info {
+    color: #999999;
+    padding-left: 52px;
+}
+.services__btn {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 19px;
+}
+.btn__accents {
+    position: absolute;
+    width: 200px;
+    left: 860px;
+    top: 1453px;
+    height: 40px;
+    background: #4985FF;
+    box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+    border-radius: 45px;
+    margin-top: 90px;  
+} 
+.services__ellips {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 492px;
+    top: 1320px;
+    border-radius: 50px;
+    border: 1px solid #4985FF;
+    box-sizing: border-box;
+}
+.services__ellipstwo{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 900px;
+    top: 1320px;
+    border-radius: 50px;
+    border: 1px solid #4985FF;
+    box-sizing: border-box;
+}
+.services__ellipsthree {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 1305px;
+    top: 1320px;
+    border-radius: 50px;
+    border: 1px solid #4985FF;
+    box-sizing: border-box;
+}
+.services__content {
+    padding-left: 300px;
+}
+.services__ellipse {
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    left: 482px;
+    top: 1309px;
+    border-radius: 60px;
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+}
+.services__ellipsetwo {
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    left: 889px;
+    top: 1309px;
+    border-radius: 60px;
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+}
+.services__ellipsethree {
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    left: 1294px;
+    top: 1310px;
+   border-radius: 60px;  
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+}
+

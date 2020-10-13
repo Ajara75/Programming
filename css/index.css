@@ -1,0 +1,11 @@
+@import './classes.css';
+@import './base.css';
+@import './fonts.css';
+@import './components/header.css';
+@import './components/hero.css';
+@import './components/services.css';
+@import './components/trends.css';
+@import './components/webside.css';
+@import './components/project.css';
+@import './components/video.css';
+@import './components/footer.css';
