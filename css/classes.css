@@ -13,3 +13,6 @@
 .flex {
   display: flex;
 } 
+.col-4 {
+    width: 23.33%;
+}
